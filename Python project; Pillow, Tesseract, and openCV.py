@@ -1,6 +1,3 @@
-# I didn't particularly want to use OS as there could be varying operating systems in a real world setting,
-# but it took less code to complete the task (using OS), therefore looked easier on the eye, so I used it for this one. Thx.
-
 from zipfile import ZipFile
 from PIL import Image
 import pytesseract
